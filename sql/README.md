@@ -1,13 +1,18 @@
-# Base de Datos y Consultas SQL
+# Base de Datos y Consultas SQL – ONG Potenciar Solidario
 
-En esta carpeta se encuentra el diseño y la implementación de una base de datos
-relacional en MySQL, creada a partir de datos de muestra del proyecto ONG Potenciar Solidario.
+## Descripción
+Creación de una base de datos relacional en MySQL a partir de datos de muestra,
+con el objetivo de practicar consultas SQL orientadas al análisis de datos.
 
 ## Contenido
 - Creación de tablas y relaciones
 - Carga de datos
-- Consultas SQL para análisis de ingresos, gastos y donaciones
+- Consultas SELECT
+- JOIN entre tablas
+- Agregaciones (SUM, COUNT, AVG)
+- Análisis de ingresos, gastos y donaciones
 
 ## Tecnología
 - MySQL
 - SQL
+
