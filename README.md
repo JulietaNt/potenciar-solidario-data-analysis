@@ -81,9 +81,7 @@ The datasets included in this repository are **sample data**, used for education
 ## 👩‍💻 Author
 Julieta Nerea Troitiño
 
-Los datos se encuentran disponibles en la carpeta `/data` y pueden utilizarse para reproducir
-los análisis y visualizaciones presentadas en el informe.
 
 
-## 👩‍💻 Autora
-Julieta Nerea Troitiño
+
+
